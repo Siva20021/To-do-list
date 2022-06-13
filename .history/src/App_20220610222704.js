@@ -1,4 +1,4 @@
-import "./App.css";
+mport "./App.css";
 import Form from "./components/Form";
 import Header from "./components/Header";
 import { useEffect, useState } from "react";
